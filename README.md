@@ -30,4 +30,4 @@ This project scrapes car data from [Edmunds.com](https://www.edmunds.com/) using
 Open the `Web_Scraping.ipynb` and `preprocessing.ipynb` notebooks in Jupyter and run the cells.
 
 4. **Visualize in Power BI**:
-Feel free to create your own visualizations! You can also check out my visualizations under `Power BI\Power BI report.pbix`."# car-data-scraper" 
+Feel free to create your own dashboards! You can also check out my visualizations under `Power BI\Power BI report.pbix`. 
