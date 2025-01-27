@@ -1,10 +1,10 @@
 # Car Data Scraper and Analyzer
 
-This project scrapes car data from [Edmunds.com](https://www.edmunds.com/) using `Selenium`, cleans and preprocesses the data, and prepares it for visualization in **Power BI**. The goal is to analyze car trends, pricing, and other insights.
+This project scrapes car data from [Edmunds.com](https://www.edmunds.com/), cleans and preprocesses the data, and prepares it for visualization in **Power BI**. The goal is to analyze car trends, pricing, and other insights.
 
 ## Steps
 1. **Scraping**:
-   - The `scraper.ipynb` notebook extracts car data (make, model, year, price, mileage, etc.) from Edmunds.com using the python library `Selenium`.
+   - The `Web_Scraping.ipynb` notebook extracts car data (make, model, year, price, mileage, etc.) from Edmunds.com using the python library `Selenium`.
    - The raw data is saved as `car_data.csv`.
 
 2. **Cleaning**:
@@ -27,7 +27,7 @@ This project scrapes car data from [Edmunds.com](https://www.edmunds.com/) using
    pip install -r requirements.txt
 
 3. **Run the notebooks**:
-Open the `Web_Scraping.ipynb` and `preprocessing.ipynb` notebooks in Jupyter and run the cells.
+Open the `Web_Scraping.ipynb` and `Preprocessing.ipynb` notebooks in Jupyter and run the cells.
 
 4. **Visualize in Power BI**:
 Feel free to create your own dashboards! You can also check out my visualizations under `Power BI\Power BI report.pbix`. 
