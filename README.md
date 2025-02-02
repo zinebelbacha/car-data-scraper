@@ -22,7 +22,7 @@ This project scrapes car data from [Edmunds.com](https://www.edmunds.com/), clea
    git clone https://github.com/your-username/car-data-scraper.git
    cd car-data-scraper
 
-2. **Create a virtual environment ( optional) and install the dependencies**:
+2. **Install the dependencies**:
    ```bash
    pip install -r requirements.txt
 
