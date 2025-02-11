@@ -19,7 +19,7 @@ This project scrapes car data from [Edmunds.com](https://www.edmunds.com/), clea
 ## Installation and Usage
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/car-data-scraper.git
+   git clone https://github.com/zinebelbacha/car-data-scraper.git
    cd car-data-scraper
 
 2. **Install the dependencies**:
